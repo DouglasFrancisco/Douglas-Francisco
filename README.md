@@ -21,12 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-francisco&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-francisco&layout=compact&theme=dracula)
-
----
-
 ## 🌐 Conecte-se comigo  
 - 📧 **Email:** douglasfranciaco1999@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/douglas-francisco-2b22a1291/](https://www.linkedin.com/in/douglas-francisco-2b22a1291/)  
