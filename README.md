@@ -22,8 +22,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-francisco&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-francisco&layout=compact&theme=dracula)
 
 ---
 
